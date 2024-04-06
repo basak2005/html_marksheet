@@ -1,0 +1,23 @@
+body{
+	background-image: linear-gradient(rgba(70, 130, 180, .8), rgba(179, 49, 49, 0.8)), url(murari-pukur-government-sponsored-higher-secondary-school-ultadanga-main-road-kolkata-senior-secondary-schools-i6hmani5tn.jpg);
+
+  background-size: cover; 
+}
+.name{
+	font-size:30;
+	font-weight:bold;
+	color:#ff0505;
+}
+.name2{
+	font-size:20;
+	font-weight:bold;
+	color:#ff0505;
+}
+.main{
+	width:70%;
+	height: 80%;
+	border: 2px solid black;
+}
+.box{
+	border-radius: 8px;
+}

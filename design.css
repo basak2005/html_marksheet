@@ -1,0 +1,36 @@
+body{
+	background-color:#DDFCAD;
+}
+.school_name{
+	color:#470FF4;
+}
+.address{
+	text-align:center;
+	font-size:20;
+}
+.profile{
+	background-color:#CE2D4F;
+}
+.text{
+	color:#F1F7EE;
+}
+.contact{
+	text-align:right;
+}
+.left{
+	text-align:left;
+}
+.class{
+	background-color:blue;
+	border:2;
+}
+.sign{
+  width: 72%;
+  height: 10%;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 2px;
+}
+.button{
+  text-align:left;	
+}
